@@ -1,0 +1,32 @@
+:root {
+  --jr-ivory: #FFFFFF;
+  --jr-surface: #FAFAFA;
+  --jr-espresso: #2B1A10;
+  --jr-muted: #7A6353;
+  --jr-line: #E5E5E5;
+  --jr-gold: #C45A3B;
+  --jr-gold-hover: #A8492E;
+  --jr-sale: #D32F2F;
+  --jr-success: #2E7D32;
+  --jr-amber: #F5A623;
+  --jr-ink: #1A120B;
+
+  --jr-bg: var(--jr-ivory);
+  --jr-fg: var(--jr-espresso);
+  --jr-border: var(--jr-line);
+  --jr-accent: var(--jr-gold);
+
+  --jr-tracking-wide: 0.08em;
+  --jr-tracking-editorial: 0.02em;
+
+  --jr-ease: cubic-bezier(0.22, 1, 0.36, 1);
+  --jr-duration: 240ms;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :root { --jr-duration: 0ms; }
+  *, *::before, *::after {
+    animation-duration: 0.001ms !important;
+    transition-duration: 0.001ms !important;
+  }
+}

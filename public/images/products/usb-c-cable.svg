@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000">
+  <rect width="800" height="1000" fill="#2B1A10"/>
+      <circle cx="400" cy="500" r="300" fill="#C99B3F" opacity="0.1"/>
+  <polygon points="400,150 650,850 150,850" fill="none" stroke="#C99B3F" stroke-width="2" opacity="0.2"/>
+  <text x="400" y="380" text-anchor="middle" font-family="Inter, sans-serif" font-size="24" fill="#C99B3F" letter-spacing="8">ELECTRONICS</text>
+  <text x="400" y="460" text-anchor="middle" font-family="Georgia, serif" font-size="52" fill="#F5EFE5">USB-C Cable</text>
+  <text x="400" y="850" text-anchor="middle" font-family="Inter, sans-serif" font-size="32" font-weight="600" fill="#F5EFE5">KSh 650</text>
+  <text x="400" y="920" text-anchor="middle" font-family="Inter, sans-serif" font-size="20" fill="#F5EFE5" opacity="0.5">J&amp;R ECOMMERCE</text>
+</svg>

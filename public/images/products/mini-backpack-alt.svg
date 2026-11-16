@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000">
+  <rect width="800" height="1000" fill="#F5EFE5"/>
+      <pattern id="dots" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
+        <circle fill="#C45A3B" cx="20" cy="20" r="3" opacity="0.2"></circle>
+      </pattern>
+      <rect width="800" height="1000" fill="url(#dots)"/>
+  <polygon points="400,150 650,850 150,850" fill="none" stroke="#C45A3B" stroke-width="2" opacity="0.2"/>
+  <text x="400" y="380" text-anchor="middle" font-family="Inter, sans-serif" font-size="24" fill="#C45A3B" letter-spacing="8">BAGS</text>
+  <text x="400" y="460" text-anchor="middle" font-family="Georgia, serif" font-size="52" fill="#2B1A10">Mini Backpack</text>
+  <text x="400" y="850" text-anchor="middle" font-family="Inter, sans-serif" font-size="32" font-weight="600" fill="#2B1A10">KSh 5,600</text>
+  <text x="400" y="920" text-anchor="middle" font-family="Inter, sans-serif" font-size="20" fill="#2B1A10" opacity="0.5">J&amp;R ECOMMERCE</text>
+</svg>

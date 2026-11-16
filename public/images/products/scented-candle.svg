@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000">
+  <rect width="800" height="1000" fill="#FBF7F0"/>
+      <circle cx="400" cy="500" r="300" fill="#2B1A10" opacity="0.1"/>
+  <circle cx="400" cy="500" r="350" fill="none" stroke="#2B1A10" stroke-width="2" opacity="0.2"/>
+  <text x="400" y="380" text-anchor="middle" font-family="Inter, sans-serif" font-size="24" fill="#2B1A10" letter-spacing="8">HOME</text>
+  <text x="400" y="460" text-anchor="middle" font-family="Georgia, serif" font-size="52" fill="#C45A3B">Scented Candle</text>
+  <text x="400" y="850" text-anchor="middle" font-family="Inter, sans-serif" font-size="32" font-weight="600" fill="#C45A3B">KSh 1,200</text>
+  <text x="400" y="920" text-anchor="middle" font-family="Inter, sans-serif" font-size="20" fill="#C45A3B" opacity="0.5">J&amp;R ECOMMERCE</text>
+</svg>

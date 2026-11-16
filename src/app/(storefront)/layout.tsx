@@ -1,0 +1,12 @@
+import { Header } from "@/components/layout/Header";
+import { Footer } from "@/components/layout/Footer";
+
+export default function StorefrontLayout({ children }: { children: React.ReactNode }) {
+  return (
+    <>
+      <Header />
+      <main className="min-h-[calc(100vh-3.5rem)]">{children}</main>
+      <Footer />
+    </>
+  );
+}
